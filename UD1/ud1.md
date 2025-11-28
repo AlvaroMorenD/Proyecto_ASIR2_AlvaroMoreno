@@ -11,6 +11,9 @@
 - [ ] **5. Obligaciones legales y normativas**
 - [ ] **6. Guion inicial del proyecto**
 
+### 1. Análisis del sector tecnológico
+
+
 ## Enlaces a recursos de la unidad
 
 - [Documentos de la unidad](./documentos/)
