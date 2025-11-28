@@ -1,4 +1,4 @@
-# Proyecto_ASIR2_ManuelDominguez
+# Proyecto_ASIR2_AlvaroMorenoDominguez
 
 **Diseño de Infraestructura Empresarial Segura y Automatizada**
 
