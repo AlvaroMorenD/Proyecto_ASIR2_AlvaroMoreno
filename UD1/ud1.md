@@ -43,7 +43,7 @@ Basándome en la documentación oficial del Plan Estratégico Provincial, he enc
 
 - Dispone de sistemas de **copias de seguridad primarios**, se ha identificado la inexistencia de un **Centro de Proceso de Datos de backups secundario** que permita una conmutación efectiva en caso de desastre y que se pueda utilizar como espejo de datos.
 
-**Solución:** Con **Proxmox Backup Server** podemos implementar un sistema de backups que se sincronize y actúe como espejo de datos con el primero. Y además la podemos implementar en la nube con Amazon web service, para que en caso que destrucción del CPD de basckups físico, el secundario no pueda ser destruido. **OpenSource y fácil de integrar**
+**Solución:** Con **Proxmox Backup Server** podemos implementar un sistema de backups que se sincronize y actúe como espejo de datos con el primero. Y además la podemos implementar en la nube con **Amazon web service**, para que en caso que destrucción del CPD de basckups físico, el secundario no pueda ser destruido. **OpenSource y fácil de integrar**
 
 - Existe una urgencia en la **"adecuación al Esquema Nacional de Seguridad (ENS)"**, especialmente en los ayuntamientos de menos de 20.000 habitantes. Los hackers saben que los pueblos pequeños son fáciles de atacar (tienen seguridad débil) y algunos no tienen dinero ni informáticos para mejorar la seguridad.
 
