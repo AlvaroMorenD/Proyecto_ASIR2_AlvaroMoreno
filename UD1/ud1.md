@@ -11,7 +11,7 @@
 - [ ] **5. Obligaciones legales y normativas**
 - [ ] **6. Guion inicial del proyecto**
 
-### 1. Análisis del sector tecnológico
+## 1. Análisis del sector tecnológico
 
 Para empezar, sevilla se ha convertido en el líder tecnológico de Andalucía, controlando el 40% de todo el sector TIC (Tecnologías de la Información) de la comunidad. Lo que antes llamábamos antes "la Cartuja" ahora se llama **Sevilla TechPark** y es donde están las grandes empresas del sector informático.
 
@@ -25,7 +25,7 @@ Unos de los problemas es que muchas empresas por dentro tienen redes viejas (cab
 
 En cuánto a las infraestructuras de las empresas, ya están aspostando por una infraestructura híbrida que mezcle el cloud con lo físico. Las empresas contratan Data Centers profesionales que les permite no depender de sus recursos. Las empresas guardan los datos secretos como por ejemplo las bases de datos, los documentos, etc... En su oficina (en un servidor local) y el resto (correo, webs) lo tienen en la nube de Amazon o Google. 
 
-### 2. Selección de la empresa o contexto de trabajo
+## 2. Selección de la empresa o contexto de trabajo
 
 
 
