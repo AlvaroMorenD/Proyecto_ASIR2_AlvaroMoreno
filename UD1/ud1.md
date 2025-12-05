@@ -35,7 +35,9 @@ También, alojan los portales web corporativos de los municipios, así como los 
 
 En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **sistemas** para resolver incidencias tanto físicas como telemáticas, que garantizan que tanto el personal de diputación y distintos personales de ayuntamientos de sevilla, tengan disponibilidad a los distintos recursos tecnológicos que la entidad pone a su disposición para el desempeño de sus funciones.
 
-![Red TARSIS](img/tarsis.png_1186095565.png)
+<p align="center">
+  <img src="img/tarsis.png_1186095565.png" alt="CPD Diputación de Sevilla" width="600">
+</p>
 
 ## 3. Identificación de necesidades tecnológicas
 
