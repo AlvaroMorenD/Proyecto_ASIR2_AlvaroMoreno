@@ -35,12 +35,27 @@ También, alojan los portales web corporativos de los municipios, así como los 
 
 En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **sistemas** para resolver incidencias tanto físicas como telemáticas, que garantizan que tanto el personal de diputación y distintos personales de ayuntamientos de sevilla, tengan disponibilidad a los distintos recursos tecnológicos que la entidad pone a su disposición para el desempeño de sus funciones.
 
-![Descripción de la foto](img/tarsis.png_1186095565.png)
+![Red TARSIS](img/tarsis.png_1186095565.png)
+
+## 3. Identificación de necesidades tecnológicas
+
+Basándome en la documentación oficial del Plan Estratégico Provincial, he encontrado una serie de vulnerabilidades que pueden comprometer la seguridad y la continuidad de los servicios públicos;
+
+- Dispone de sistemas de **copias de seguridad primarios**, se ha identificado la inexistencia de un **Centro de Proceso de Datos de backups secundario** que permita una conmutación efectiva en caso de desastre y que se pueda utilizar como espejo de datos.
+
+**Solución:** Con **Proxmox Backup Server** podemos implementar un sistema de backups que se sincronize y actúe como espejo de datos con el primero. Y además la podemos implementar en la nube con Amazon web service, para que en caso que destrucción del CPD de basckups físico, el secundario no pueda ser destruido. **OpenSource y fácil de integrar**
+
+- Existe una urgencia en la **"adecuación al Esquema Nacional de Seguridad (ENS)"**, especialmente en los ayuntamientos de menos de 20.000 habitantes. Los hackers saben que los pueblos pequeños son fáciles de atacar (tienen seguridad débil) y algunos no tienen dinero ni informáticos para mejorar la seguridad.
+
+**Solución:** Desplegar una arquitectura de **firewalls** y segmentación de redes **VLANs** para aislar tráficos críticos, cumpliendo con las medidas de nivel medio/alto del **ENS** 
+
+- El análisis **DAFO** de la documentación, identifica la existencia de **"silos en la gestión del dato"**, lo que provoca duplicidad de información y falta de comunicación entre los sistemas municipales.
+
+**Solución:** implementar una arquitectura centralizada de datos y usuarios que elimine la duplicidad y garantice una fuente única de verdad para todos los departamentos. Implementaria **Active Directory** en **Windows** o **LDAP** en
+**Linux**.
 
 
-
-
-## Enlaces a recursos de la unidad
+## Enlaces a recursos de la unidad 
 
 - [Documentos de la unidad](./documentos/)
 - [Diagramas e imágenes](./img/)
