@@ -54,7 +54,9 @@ Basándome en la documentación oficial del Plan Estratégico Provincial, he enc
 **Solución:** implementar una arquitectura centralizada de datos y usuarios que elimine la duplicidad y garantice una fuente única de verdad para todos los departamentos. Implementaria **Active Directory** en **Windows** o **LDAP** en
 **Linux**.
 
-![CPD Diputación de Sevilla](img/5496.jpg)
+<p align="center">
+  <img src="img/5496.jpg" alt="CPD Diputación de Sevilla" width="600">
+</p>
 
 ## 4. Oportunidades y viabilidad del proyecto
 
