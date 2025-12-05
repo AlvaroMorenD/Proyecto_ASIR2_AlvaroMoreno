@@ -33,7 +33,7 @@ Este entorno, se dedica a gestionar la **Red tarsis** que interconecta las sedes
 
 También, alojan los portales web corporativos de los municipios, así como los portales de Transparencia y Datos Abiertos, fomentando la participación ciudadana.
 
-En caso necesario, tienen un departamento de "atención a usuarios (CAU)" y "sistemas" para resolver incidencias tanto físicas como telemáticas, que garantizan que tanto el personal de diputación y distintos personales de ayuntamientos de sevilla, tengan disponibilidad a los distintos recursos tecnológicos que la entidad pone a su disposición para el desempeño de sus funciones.
+En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **sistemas** para resolver incidencias tanto físicas como telemáticas, que garantizan que tanto el personal de diputación y distintos personales de ayuntamientos de sevilla, tengan disponibilidad a los distintos recursos tecnológicos que la entidad pone a su disposición para el desempeño de sus funciones.
 
 
 
