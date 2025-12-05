@@ -29,7 +29,7 @@ En cuánto a las infraestructuras de las empresas, ya están aspostando por una 
 
 He seleccionado como entorno de trabajo la Sociedad Provincial de Informática de Sevilla S.A.U. (INPRO). Se trata de una sociedad instrumental dependiente de la Diputación de Sevilla, con sede central en la capital hispalense, que actúa como el principal proveedor tecnológico para las Entidades Locales de la provincia.
 
-Este entorno, se dedica a gestionar la **Red tarsis** que interconecta las sedes municipales, garantizando la seguridad perimetral y el acceso a internet. Además de desarrollar y mantiener el software necesario para el funcionamiento interno de los ayuntamientos, incluyendo sistemas de contabilidad, gestión de padrón, recursos humanos y gestión documental.
+Este entorno, se dedica a gestionar la **Red TARSIS** que interconecta las sedes municipales, garantizando la seguridad perimetral y el acceso a internet. Además de desarrollar y mantiener el software necesario para el funcionamiento interno de los ayuntamientos, incluyendo sistemas de contabilidad, gestión de padrón, recursos humanos y gestión documental.
 
 También, alojan los portales web corporativos de los municipios, así como los portales de Transparencia y Datos Abiertos, fomentando la participación ciudadana.
 
