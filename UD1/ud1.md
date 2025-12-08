@@ -55,7 +55,7 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 **Mi Solución:** Desplegar un **SOC Provincial** (Centro de Operaciones de Seguridad) para monitorizar y proteger centralizadamente a todos los municipios, suprimiendo la falta de personal técnico.
 
 <p align="center">
-  <img src="img/5496.png" alt="" width="600">
+  <img src="img/5496.jpg" alt="" width="600">
 </p>
 
 ## 4. Oportunidades y viabilidad del proyecto
