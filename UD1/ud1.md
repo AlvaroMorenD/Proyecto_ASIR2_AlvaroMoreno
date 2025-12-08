@@ -60,9 +60,9 @@ En cuanto a la viabilidad técnica y económica, el proyecto es totalmente soste
 
 ## 5. Obligaciones legales y normativas
 
-Dentro del encuadre 
+Este proyecto puede llegar a ser necesario para cumplir con el **Esquema Nacional de Seguridad** **(ENS)** y la normativa de **Protección de Datos**. Al centralizar los escritorios **(VDI)** y la seguridad **(SOC y EDR)**, evitamos que los datos sensibles de los ciudadanos acaben expuestos a terceros.
 
-En cuanto a la viabilidad técnica y económica, el proyecto es totalmente sostenible gracias al uso de alternativas de **Software Libre**. Para reducir costes de licencias, propongo utilizar tecnologías como la virtualización basada en **KVM** para el despliegue del **VDI**. Esto demuestra que es posible elevar la seguridad y modernizar el puesto de trabajo manteniendo la eficiencia del gasto público.
+
 
 ## Enlaces a recursos de la unidad 
 
