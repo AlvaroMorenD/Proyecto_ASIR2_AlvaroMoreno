@@ -97,7 +97,6 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
 
 
-
 ## recursos
 
 1. Sobre el Puesto de Trabajo (VDI)
@@ -105,7 +104,7 @@ El Problema (Obsolescencia y Riesgo):
 
 Página 26: El diagnóstico señala la necesidad de "la adaptación del paradigma actual del puesto de trabajo" y "asegurar un acceso y un soporte seguro".
 
-Página 39 (DAFO): Identifica como debilidad la "Desprotección y falta de mecanismos de seguridad ante retos imprevistos".
+Página 39 (Análisis DAFO): Identifica como debilidad la "Desprotección y falta de mecanismos de seguridad ante retos imprevistos".
 
 La Solución (Entorno Virtual):
 
@@ -129,7 +128,6 @@ La Solución (Bus):
 
 Página 56: En los objetivos operativos de la Línea 1, establece: "Definir e implantar un modelo de interoperabilidad provincial" y lista como actuación la "Implantación de Bus de interoperabilidad en la Diputación".
 
-(Nota: La tecnología concreta "SUSE Rancher" es la aportación técnica externa que hemos añadido para modernizar este Bus, pero la necesidad del Bus es oficial del documento).
 
 
 
