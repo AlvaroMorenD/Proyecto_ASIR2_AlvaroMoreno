@@ -46,7 +46,7 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 
 - La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil, con sistemas operativos obsoletos y con despliegue de un antivirus, pero sin EDR.
   
-**Mi solución:** Desplegar un sistema **EDR (Detección de Respuesta de Endpoints)** que refuerce la ciberseguridad de los puestos de trabajo, incorporando análisis de comportamiento, además del propio escaneo de firmas de un simple antivirus. Un sistema EDR se enecarga de analizar distintos patrones que detectan cuando un proceso es malintencionado o presenta un comportamiento anómalo.
+**Mi solución:** Desplegar un sistema **EDR (Detección de Respuesta de Endpoints)** que refuerce la ciberseguridad de los puestos de trabajo, incorporando análisis de comportamiento, además del propio escaneo de firmas de un simple antivirus. Un sistema **EDR** se enecarga de analizar distintos patrones que detectan cuando un proceso es malintencionado o presenta un comportamiento anómalo.
 
 - Los equipos técnicos de la Diputación, no cuentan con un servicio 24x7, dada la falta de personal, esto puede ser aprovechado por los ciberdelincuentes, y en caso de incidente, puede ser demasiado tarde.
 
