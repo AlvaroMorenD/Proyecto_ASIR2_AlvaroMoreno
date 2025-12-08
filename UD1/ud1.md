@@ -23,7 +23,9 @@ Uno de los problemas frecuentes en muchas empresas es que mantienen infraestruct
 
 En cuanto a las infraestructuras actuales, la mayoría de empresas están apostando por un modelo híbrido que combina la nube con recursos locales. Suelen contratar Data Centers profesionales para no depender únicamente de sus propios servidores. Los datos sensibles como bases de datos o documentos internos los mantienen en la oficina, mientras que otros servicios como el correo o las páginas web se alojan en la nube de Amazon o Google.
 
-
+<p align="center">
+  <img src="img/hola.webp" alt="" width="600">
+</p>
 
 ## 2. Selección de la empresa o contexto de trabajo
 
