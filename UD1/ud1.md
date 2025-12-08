@@ -46,17 +46,23 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 
 - La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil, con sistemas operativos obsoletos y con despliegue de un antivirus, pero sin EDR.
   
-**Mi solución:** Desplegar un sistema EDR (Detección de Respuesta de Endpoints) que refuerce la ciberseguridad de los puestos de trabajo, incorporando análisis de comportamiento, además del propio escaneo de firmas de un simple antivirus.
+**Mi solución:** Desplegar un sistema **EDR (Detección de Respuesta de Endpoints)** que refuerce la ciberseguridad de los puestos de trabajo, incorporando análisis de comportamiento, además del propio escaneo de firmas de un simple antivirus. Un sistema EDR se enecarga de analizar distintos patrones que detectan cuando un proceso es malintencionado o presenta un comportamiento anómalo.
 
 - Los equipos técnicos de la Diputación, no cuentan con un servicio 24x7, dada la falta de personal, esto puede ser aprovechado por los ciberdelincuentes, y en caso de incidente, puede ser demasiado tarde.
 
 **Mi Solución:** Desplegar un **SOC Provincial** (Centro de Operaciones de Seguridad) para monitorizar y proteger centralizadamente a todos los municipios, suprimiendo la falta de personal técnico.
 
--La mayoría de los Ayuntamenos o EELL, no cumplen el Esquema Nacional de Seguridad (ENS) por falta de recursos
-
-**Mi solución:** 
-
 ## 4. Oportunidades y viabilidad del proyecto
+
+Teniendo en cuenta que tratan con datos sensibles de la provincia y ciudadanos, todas las medidas que he citado son imprescindibles para fortificar el acceso y evitar que la información se vea comprometida. Aunque el coste inicial pueda parecer elevado, es muy inferior al impacto de un incidente de seguridad real.
+
+En cuanto a la viabilidad técnica y económica, el proyecto es totalmente sostenible gracias al uso de alternativas de **Software Libre**. Para reducir costes de licencias, propongo utilizar tecnologías como la virtualización basada en **KVM** para el despliegue del **VDI**. Esto demuestra que es posible elevar la seguridad y modernizar el puesto de trabajo manteniendo la eficiencia del gasto público.
+
+## 5. Obligaciones legales y normativas
+
+Dentro del encuadre 
+
+En cuanto a la viabilidad técnica y económica, el proyecto es totalmente sostenible gracias al uso de alternativas de **Software Libre**. Para reducir costes de licencias, propongo utilizar tecnologías como la virtualización basada en **KVM** para el despliegue del **VDI**. Esto demuestra que es posible elevar la seguridad y modernizar el puesto de trabajo manteniendo la eficiencia del gasto público.
 
 ## Enlaces a recursos de la unidad 
 
