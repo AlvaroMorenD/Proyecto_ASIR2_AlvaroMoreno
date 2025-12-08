@@ -14,7 +14,7 @@
 ## 1. Análisis del sector tecnológico
 
 En primer lugar, voy a poner en contexto en cuanto al sector TIC (Tecnologías de la Información) en la provincia de Sevilla. Se ha convertido en el líder tecnológico de Andalucía, controlando el 40% del sector  de la comunidad. Lo que antes llamábamos antes "la Cartuja" ahora se llama **Sevilla TechPark** y es donde están las grandes empresas del sector informático. De este gran avance y de la colaboración **Pública/Privada**, ha favorecido la digitalización de la Provincia.
-Hay una media de 31.667 personas trabajando en Sevilla TechPark. De todos ellos, casi 12.000 son informáticos o de telecomunicaciones. 
+Hay una media de 31.667 personas trabajando en Sevilla TechPark. De todos ellos, casi 12.000 son informáticos o de telecomunicaciones. La demanda de ASIR cada vez va en aumento debido a la creciente complejidad de las infraestructuras TI **(sistemas híbridos)** y a la necesidad crítica de proteger los activos digitales de las empresas **(cyberseguridad)**,   
 
 En cuanto a las infraestructuras actuales, la mayoría de empresas están apostando por un modelo híbrido que combina la nube con recursos locales. Suelen contratar Data Centers profesionales para no depender únicamente de sus propios servidores. Los datos sensibles como bases de datos o documentos internos los mantienen en los servidores locales, mientras que otros servicios como el correo o las páginas web se alojan en la nube de Amazon o Google.
 
