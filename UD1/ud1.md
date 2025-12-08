@@ -45,7 +45,9 @@ Basándome en la documentación oficial del Plan Estratégico Provincial, he enc
 
 - Existe una urgencia en la **"adecuación al Esquema Nacional de Seguridad (ENS)"**, especialmente en los ayuntamientos de menos de 20.000 habitantes. Los hackers saben que los pueblos pequeños son fáciles de atacar (tienen seguridad débil) y algunos no tienen dinero ni informáticos para mejorar la seguridad.
 
-**Solución:** Desplegar una arquitectura de **firewalls** y segmentación de redes **VLANs** para aislar tráficos críticos, cumpliendo con las medidas de nivel medio/alto del **ENS** 
+**Solución:** En lugar de tomar soluciones aisladas, implantar un **Centro de Operaciones de Seguridad (SOC) Provincial** unificado. Este permitirá monitorizar, prevenir y responder a ciberataques en todos los ayuntamientos de forma centralizada desde la Diputación, garantizando el cumplimiento del ENS sin que cada pueblo tenga que comprar y gestionar su propia ciberseguridad compleja.
+
+**pagina 57**
 
 - El análisis DAFO de la documentación identifica la existencia de **"silos en la gestión del dato"**, lo que provoca duplicidad de información y falta de comunicación entre los sistemas municipales.
 
