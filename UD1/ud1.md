@@ -13,17 +13,15 @@
 
 ## 1. Análisis del sector tecnológico
 
-En primer lugar, voy a poner en contexto en cuanto al sector TIC (Tecnologías de la Información),, la provincia de Sevilla. Se ha convertido en el líder tecnológico de Andalucía, controlando el 40% del sector  de la comunidad. Lo que antes llamábamos antes "la Cartuja" ahora se llama Sevilla TechPark y es donde están las grandes empresas del sector informático. De este gran avance y de la colaboración Pública/Privada, ha favorecido la digitalización de la Provincia.
+En primer lugar, voy a poner en contexto en cuanto al sector TIC (Tecnologías de la Información),, la provincia de Sevilla. Se ha convertido en el líder tecnológico de Andalucía, controlando el 40% del sector  de la comunidad. Lo que antes llamábamos antes "la Cartuja" ahora se llama **Sevilla TechPark** y es donde están las grandes empresas del sector informático. De este gran avance y de la colaboración **Pública/Privada**, ha favorecido la digitalización de la Provincia.
 
 Hay una media de 31.667 personas trabajando en Sevilla TechPark. De todos ellos, casi 12.000 son informáticos o de telecomunicaciones. Las empresas de ingeniería dentro del parque han disparado su actividad un 73% este año.
 
-Ahora si, pasamos al análisis de la infraestructura tecnológica sevillana;
+Casi toda la provincia, el 99%, de los Ayuntamientos y Entidades Locales, tiene acceso a internet básico, pero la clave está en la Fibra Óptica (FTTH) de alta velocidad. En la capital y el área metropolitana (como en el parque Sevilla TechPark), la velocidad es altísima porque las empresas lo necesitan para mover datos pesados, así cómo la centralización colaborativa de los mismos.
 
-Casi toda la provincia, el 99%, de los Ayuntamoientos y Entidades Locales,  tiene acceso a internet básico, pero la clave está en la Fibra Óptica (FTTH) de alta velocidad. En la capital y el área metropolitana (como en el parque Sevilla TechPark), la velocidad es altísima porque las empresas lo necesitan para mover datos pesados, así cómo la centralización colaborativa de los mismos.
+Uno de los problemas frecuentes en muchas empresas es que mantienen infraestructuras de red muy antiguas, con cableado de cobre obsoleto que provoca cuellos de botella. Lo he visto por experiencia cuando estuve de becario en la Diputación de Sevilla. Como administradores de sistemas, nuestra labor es sustituir esas redes antiguas por otras modernas para que la velocidad real llegue al puesto de trabajo.
 
-Unos de los problemas es que muchas empresas por dentro tienen redes viejas (cables de cobre antiguos) que hacen cuello de botella. Por experiencia como becario en la Diputación de Sevilla. Nuestro trabajo como administrador de sistemas es cambiar esas redes viejas por redes modernas para que la velocidad real llegue al ordenador del trabajador.
-
-En cuánto a las infraestructuras de las empresas, ya están aspostando por una infraestructura híbrida que mezcle el cloud con lo físico. Las empresas contratan Data Centers profesionales que les permite no depender de sus recursos. Las empresas guardan los datos secretos como por ejemplo las bases de datos, los documentos, etc... En su oficina (en un servidor local) y el resto (correo, webs) lo tienen en la nube de Amazon o Google.
+En cuanto a las infraestructuras actuales, la mayoría de empresas están apostando por un modelo híbrido que combina la nube con recursos locales. Suelen contratar Data Centers profesionales para no depender únicamente de sus propios servidores. Los datos sensibles como bases de datos o documentos internos los mantienen en la oficina, mientras que otros servicios como el correo o las páginas web se alojan en la nube de Amazon o Google.
 
 ## 2. Selección de la empresa o contexto de trabajo
 
