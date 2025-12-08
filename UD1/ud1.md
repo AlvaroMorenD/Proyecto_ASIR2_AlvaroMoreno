@@ -86,6 +86,10 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 
 - Formación a usuarios de cómo usar su nuevo escritorio y cómo actuar ante posibles incidencias. Entregando también el **Plan de Contingencia**
 
+<p align="center">
+  <img src="img/R.png" alt="" width="600">
+</p>
+
 ## Enlaces a recursos de la unidad 
 
 - [Documentos de la unidad](./documentos/)
