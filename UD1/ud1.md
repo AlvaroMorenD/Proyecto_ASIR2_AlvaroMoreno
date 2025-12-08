@@ -54,6 +54,8 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 
 **Mi Solución:** Desplegar un **SOC Provincial** (Centro de Operaciones de Seguridad) para monitorizar y proteger centralizadamente a todos los municipios, suprimiendo la falta de personal técnico.
 
+
+
 ## 4. Oportunidades y viabilidad del proyecto
 
 Teniendo en cuenta que tratan con datos sensibles de la provincia y ciudadanos, todas las medidas que he citado son imprescindibles para fortificar el acceso y evitar que la información se vea comprometida. Aunque el coste inicial pueda parecer elevado, es muy inferior al impacto de un incidente de seguridad real.
