@@ -51,10 +51,9 @@ Basándome en la documentación oficial del Plan Estratégico Provincial, he enc
 
 **Solución:** Desplegar una arquitectura de **firewalls** y segmentación de redes **VLANs** para aislar tráficos críticos, cumpliendo con las medidas de nivel medio/alto del **ENS** 
 
-- El análisis **DAFO** de la documentación, identifica la existencia de **"silos en la gestión del dato"**, lo que provoca duplicidad de información y falta de comunicación entre los sistemas municipales.
+- El análisis DAFO de la documentación identifica la existencia de "silos en la gestión del dato", lo que provoca duplicidad de información y falta de comunicación entre los sistemas municipales.
 
-**Solución:** implementar una arquitectura centralizada de datos y usuarios que elimine la duplicidad y garantice una fuente única de verdad para todos los departamentos. Implementaria **Active Directory** en **Windows** o **LDAP** en
-**Linux**.
+**Solución:** Implementar un Bus de Interoperabilidad Provincial orquestado mediante **SUSE Rancher (Kubernetes)**. Esta plataforma moderna permitirá conectar las bases de datos aisladas mediante microservicios, garantizando el principio de "Dato Único" y eliminando la duplicidad de información entre departamentos, tal y como exige la estrategia de transformación digital del organismo.
 
 <p align="center">
   <img src="img/5496.jpg" alt="CPD Diputación de Sevilla" width="600">
