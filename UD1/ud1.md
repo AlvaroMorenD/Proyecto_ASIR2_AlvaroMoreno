@@ -118,7 +118,7 @@ SOC: Página 57.
   
 ###  Documentación de Referencia
 - **Diputación de Sevilla / INPRO** (2022-2023). *Plan Estratégico Provincial de Innovación y Territorio Inteligente de la Diputación de Sevilla*. (Documento fuente principal del proyecto).
-  
+  [Documento de la planificacion](./documentos/1-Plan-Estrategico-Innovac-y-Territ-Intelig.pdf/)
  ### Normativa Legal
 - **Boletín Oficial del Estado (BOE)**. *Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad (ENS)*.
   - [Enlace al BOE](https://www.boe.es/eli/es/rd/2022/05/03/311/con)
@@ -127,7 +127,7 @@ SOC: Página 57.
 - **Unión Europea**. *Reglamento General de Protección de Datos (RGPD) - Reglamento (UE) 2016/679*.
   - [Acceso al Reglamento UE](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
 
-### 🛠️ Recursos Técnicos y Tecnologías
+### Recursos Técnicos y Tecnologías
 - **INPRO (Sociedad Provincial de Informática de Sevilla)**. *Portal oficial y Catálogo de Servicios*.
   - [Web Oficial INPRO](https://inpro.dipusevilla.es/)
 - **SUSE Rancher**. *Documentación oficial para la gestión de Kubernetes y Clusters (Bus de Interoperabilidad)*.
@@ -137,6 +137,6 @@ SOC: Página 57.
 - **Zabbix**. *Manual de monitorización de infraestructura y máquinas virtuales*.
   - [Documentación Zabbix](https://www.zabbix.com/documentation/current/es)
 
-### 🏙️ Contexto del Sector
+### Contexto del Sector
 - **PCT Cartuja (Sevilla TechPark)**. *Informes de actividad y datos del sector tecnológico en Sevilla*.
   - [Web PCT Cartuja](https://www.pctcartuja.es/)
