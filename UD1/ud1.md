@@ -58,7 +58,9 @@ En cuanto a la viabilidad técnica y económica, el proyecto es totalmente soste
 
 ## 5. Obligaciones legales y normativas
 
-Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y con la **normativa de Protección de Datos (RGPD)** porque al centralizar todo en el **CPD** y usar **VDI (Virtualizado Centralizado)**, **SOC (Centro de Operaciones de Seguridad)** y **EDR (Detección de Respuesta de Endpoints)**, los datos sensibles no salen de un entorno controlado y siempre están protegidos. Además, la monitorización continua y el control de accesos ayudan a evitar fugas de información y permiten detectar incidentes a tiempo, algo que también pide la normativa europea como **NIS2**. En resumen, estas medidas hacen que la **Diputación** e **INPRO** trabajen de forma más segura y siguiendo las reglas que exige la ley.
+Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y con la **normativa de Protección de Datos (RGPD)** porque al centralizar todo en el **CPD** y usar **VDI (Virtualizado Centralizado)**, **SOC (Centro de Operaciones de Seguridad)** y **EDR (Detección de Respuesta de Endpoints)**, los datos sensibles no salen de un entorno controlado y siempre están protegidos. Además, la monitorización continua y el control de accesos ayudan a evitar fugas de información y permiten detectar incidentes a tiempo, algo que también pide la normativa europea como **NIS2 (normativa europea de ciberseguridad)**. En resumen, estas medidas hacen que la **Diputación** e **INPRO** trabajen de forma más segura y siguiendo las reglas que exige la ley.
+
+
 
 ## Enlaces a recursos de la unidad 
 
@@ -70,8 +72,34 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
 
+## 6. Guion inicial del proyecto
+
+**1. PREPARACIÓN Y MONTAJE DEL CPD**
+
+- En primer lugar, hacemos un inventario rápido para saber cuántos ordenadores obsoletos hay en los pueblos y comprobar si la **red Tarsis** tiene velocidad suficiente
+
+- Instalamos en el CPD el hardware necesario y el software de virtualización **(KVM)** donde contendrán los escritorios virtuales
+
+- Configuramos **Zabbix** para monitorear las **KVMs**.
+
+**2. DESPLIEGUE DE SERVICIOS**
+
+- Activamos el **SOC Provincial** para empezar a vigilar la red e instalamos de forma remota los agentes **EDR** en los ordenadores de los ayuntamientos pequeños para para reforzar su ciberseguridad.
+
+- Creamos las **imágenes maestras** (Windows con sus programas por defecto y con las aplicaciones coorporativas necesarias para el trabajador)
+
+- Creamos un sistema de autenticación por doble factor con **google authenticator** para que cada trabajador tenga su clave **TOTP** o **SMS**
+
+**3. VALIDACIÓN Y ENTREGA**
+
+- Hacemos un simulacro de ataque (tipo ransomware) para verificar la respuesta del SOC y del EDR, y además realizamos una prueba de carga con muchos usuarios conectados al VDI (monitoreamos con **Zabbix**)
+
+- Verficamos si se cumplen parte de los requisitos del **Esquema Nacional de Seguridad (ENS)**.
+
+- Formación a usuarios de cómo usar su nuevo escritorio y cómo actuar ante posibles incidencias. Entregando también el **Plan de Contingencia**
 
 ## recursos
+
 1. Sobre el Puesto de Trabajo (VDI)
 El Problema (Obsolescencia y Riesgo):
 
