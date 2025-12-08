@@ -86,22 +86,6 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 
 - Formación a usuarios de cómo usar su nuevo escritorio y cómo actuar ante posibles incidencias. Entregando también el **Plan de Contingencia**
 
-  graph TD
-    subgraph "Fase 1: Preparación"
-    A[Inventario y Red Tarsis] --> B[Instalación KVM en CPD]
-    B --> C[Configurar Zabbix]
-    end
-    subgraph "Fase 2: Despliegue"
-    C --> D[Activar SOC y EDR]
-    D --> E[Crear Golden Images]
-    E --> F[Configurar 2FA]
-    end
-    subgraph "Fase 3: Validación"
-    F --> G[Simulacro Ransomware]
-    G --> H[Auditoría ENS]
-    H --> I[Entrega Plan Contingencia]
-    end
-
 ## Enlaces a recursos de la unidad 
 
 - [Documentos de la unidad](./documentos/)
