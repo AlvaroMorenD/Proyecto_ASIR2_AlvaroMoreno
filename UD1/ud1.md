@@ -13,7 +13,7 @@
 
 ## 1. Análisis del sector tecnológico
 
-En primer lugar, voy a poner en contexto en cuanto al sector TIC (Tecnologías de la Información),, la provincia de Sevilla. Se ha convertido en el líder tecnológico de Andalucía, controlando el 40% del sector  de la comunidad. Lo que antes llamábamos antes "la Cartuja" ahora se llama **Sevilla TechPark** y es donde están las grandes empresas del sector informático. De este gran avance y de la colaboración **Pública/Privada**, ha favorecido la digitalización de la Provincia.
+En primer lugar, voy a poner en contexto en cuanto al sector TIC (Tecnologías de la Información) en la provincia de Sevilla. Se ha convertido en el líder tecnológico de Andalucía, controlando el 40% del sector  de la comunidad. Lo que antes llamábamos antes "la Cartuja" ahora se llama **Sevilla TechPark** y es donde están las grandes empresas del sector informático. De este gran avance y de la colaboración **Pública/Privada**, ha favorecido la digitalización de la Provincia.
 
 Hay una media de 31.667 personas trabajando en Sevilla TechPark. De todos ellos, casi 12.000 son informáticos o de telecomunicaciones. Las empresas de ingeniería dentro del parque han disparado su actividad un 73% este año.
 
