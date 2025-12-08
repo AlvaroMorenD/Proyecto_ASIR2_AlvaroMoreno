@@ -129,7 +129,7 @@ SOC: Página 57.
 
 ### 🛠️ Recursos Técnicos y Tecnologías
 - **INPRO (Sociedad Provincial de Informática de Sevilla)**. *Portal oficial y Catálogo de Servicios*.
-  - [Web Oficial INPRO](https://www.inpro.gob.es/)
+  - [Web Oficial INPRO](https://inpro.dipusevilla.es/)
 - **SUSE Rancher**. *Documentación oficial para la gestión de Kubernetes y Clusters (Bus de Interoperabilidad)*.
   - [Documentación de SUSE Rancher](https://ranchermanager.docs.rancher.com/)
 - **Linux KVM (Kernel-based Virtual Machine)**. *Documentación sobre virtualización Open Source (Base del proyecto VDI)*.
