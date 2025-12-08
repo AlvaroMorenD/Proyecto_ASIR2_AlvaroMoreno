@@ -47,7 +47,7 @@ Basándome en la documentación oficial del Plan Estratégico Provincial, he enc
 
 **Solución:** Desplegar una arquitectura de **firewalls** y segmentación de redes **VLANs** para aislar tráficos críticos, cumpliendo con las medidas de nivel medio/alto del **ENS** 
 
-- El análisis DAFO de la documentación identifica la existencia de "silos en la gestión del dato", lo que provoca duplicidad de información y falta de comunicación entre los sistemas municipales.
+- El análisis DAFO de la documentación identifica la existencia de **"silos en la gestión del dato"**, lo que provoca duplicidad de información y falta de comunicación entre los sistemas municipales.
 
 **Solución:** Implementar un Bus de Interoperabilidad Provincial mediante **SUSE Rancher (Kubernetes)**. Esta plataforma permite conectar las bases de datos aisladas mediante microservicios, garantizando el principio de **"Dato Único"** y eliminando la duplicidad de información entre departamentos.
 
