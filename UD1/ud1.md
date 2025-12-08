@@ -114,7 +114,29 @@ SOC: Página 57.
   
 - [Diagramas e imágenes](./img/)
 
-  ## Bibliografía / Webgrafía 
-- Autor1, Título del libro o artículo, Editorial/Año.
-- Sitio web oficial: [Enlace](https://www.ejemplo.com)
-- Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
+  ## Bibliografía / Webgrafía
+  
+###  Documentación de Referencia
+- **Diputación de Sevilla / INPRO** (2022-2023). *Plan Estratégico Provincial de Innovación y Territorio Inteligente de la Diputación de Sevilla*. (Documento fuente principal del proyecto).
+  
+ ### Normativa Legal
+- **Boletín Oficial del Estado (BOE)**. *Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad (ENS)*.
+  - [Enlace al BOE](https://www.boe.es/eli/es/rd/2022/05/03/311/con)
+- **CCN-CERT (Centro Criptológico Nacional)**. *Guías de Seguridad de las TIC (Series CCN-STIC) para cumplimiento del ENS*.
+  - [Portal del CCN-CERT](https://www.ccn-cert.cni.es/)
+- **Unión Europea**. *Reglamento General de Protección de Datos (RGPD) - Reglamento (UE) 2016/679*.
+  - [Acceso al Reglamento UE](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+
+### 🛠️ Recursos Técnicos y Tecnologías
+- **INPRO (Sociedad Provincial de Informática de Sevilla)**. *Portal oficial y Catálogo de Servicios*.
+  - [Web Oficial INPRO](https://www.inpro.gob.es/)
+- **SUSE Rancher**. *Documentación oficial para la gestión de Kubernetes y Clusters (Bus de Interoperabilidad)*.
+  - [Documentación de SUSE Rancher](https://ranchermanager.docs.rancher.com/)
+- **Linux KVM (Kernel-based Virtual Machine)**. *Documentación sobre virtualización Open Source (Base del proyecto VDI)*.
+  - [Linux KVM.org](https://www.linux-kvm.org/page/Main_Page)
+- **Zabbix**. *Manual de monitorización de infraestructura y máquinas virtuales*.
+  - [Documentación Zabbix](https://www.zabbix.com/documentation/current/es)
+
+### 🏙️ Contexto del Sector
+- **PCT Cartuja (Sevilla TechPark)**. *Informes de actividad y datos del sector tecnológico en Sevilla*.
+  - [Web PCT Cartuja](https://www.pctcartuja.es/)
