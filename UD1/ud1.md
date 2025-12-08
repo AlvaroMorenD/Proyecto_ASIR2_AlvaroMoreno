@@ -27,31 +27,30 @@ En cuánto a las infraestructuras de las empresas, ya están aspostando por una 
 
 ## 2. Selección de la empresa o contexto de trabajo
 
-He seleccionado como entorno de trabajo la **Sociedad Provincial de Informática de Sevilla S.A.U. (INPRO)**. Se trata de una sociedad instrumental dependiente de la Diputación de Sevilla, con sede central en la capital hispalense, que actúa como el principal proveedor tecnológico para las Entidades Locales de la provincia.
+He seleccionado como entorno de trabajo la **Sociedad Provincial de Informática de Sevilla S.A.U. (INPRO)**. Se trata de una sociedad instrumental dependiente de la Diputación de Sevilla, que actúa como el principal proveedor tecnológico para las Entidades Locales de la provincia.
 
 Este entorno, se dedica a gestionar la **Red TARSIS** que interconecta las sedes municipales, garantizando la seguridad perimetral y el acceso a internet. Además de desarrollar y mantiener el software necesario para el funcionamiento interno de los ayuntamientos, incluyendo sistemas de contabilidad, gestión de padrón, recursos humanos y gestión documental.
-
-También, alojan los portales web corporativos de los municipios, así como los portales de Transparencia y Datos Abiertos, fomentando la participación ciudadana.
+También, alojan los portales web corporativos de los municipios, así como los portales de Transparencia y Datos Abiertos.
 
 En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **sistemas** para resolver incidencias tanto físicas como telemáticas, que garantizan que tanto el personal de diputación y distintos personales de ayuntamientos de sevilla, tengan disponibilidad a los distintos recursos tecnológicos que la entidad pone a su disposición para el desempeño de sus funciones.
 
 <p align="center">
-  <img src="img/tarsis.png_1186095565.png" alt="CPD Diputación de Sevilla" width="600">
+  <img src="img/tarsis.png_1186095565.png" alt="" width="600">
 </p>
 
 ## 3. Identificación de necesidades tecnológicas
 
-Basándome en la documentación oficial del Plan Estratégico Provincial, he encontrado una serie de vulnerabilidades que pueden comprometer la seguridad y la continuidad de los servicios públicos;
+Pese al acceso web seguro y al 2FA que oferecen para acceder de manera telemática a sus eqipos de trabajo, depender de PCs físicos con sistemas operativos obsoletos genera riesgos de fuga de información y dificultades de mantenimiento.
 
-- Existe una urgencia en la **"adecuación al Esquema Nacional de Seguridad (ENS)"**, especialmente en los ayuntamientos de menos de 20.000 habitantes. Los hackers saben que los pueblos pequeños son fáciles de atacar (tienen seguridad débil) y algunos no tienen dinero ni informáticos para mejorar la seguridad.
+**Mi solución:** Implantar el **"Entorno Virtual Corporativo"** **(VDI)**. Usaremos la autenticación actual para servir escritorios virtuales centralizados en el CPD, garantizando que la información nunca salga del CPD y eliminando la gestión de parches en los equipos locales.
 
-**Solución:** En lugar de tomar soluciones aisladas, implantar un **Centro de Operaciones de Seguridad (SOC) Provincial** unificado. Este permitirá monitorizar, prevenir y responder a ciberataques en todos los ayuntamientos de forma centralizada desde la Diputación, garantizando el cumplimiento del ENS sin que cada pueblo tenga que comprar y gestionar su propia ciberseguridad compleja.
+La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil y la mayoría no cumplen el Esquema Nacional de Seguridad (ENS) por falta de recursos.
 
-**pagina 57**
+**Mi Solución:** Desplegar un SOC Provincial (Centro de Operaciones de Seguridad) para monitorizar y proteger centralizadamente a todos los municipios, suprimiendo la falta de personal técnico.
 
-- El análisis DAFO de la documentación identifica la existencia de **"silos en la gestión del dato"**, lo que provoca duplicidad de información y falta de comunicación entre los sistemas municipales.
+En cuanto a los **Silos de Información.** Existe la duplicidad y aislamiento de datos por la falta de comunicación entre departamentos.
 
-**Solución:** Implementar un Bus de Interoperabilidad Provincial mediante **SUSE Rancher (Kubernetes)**. Esta plataforma permite conectar las bases de datos aisladas mediante microservicios, garantizando el principio de **"Dato Único"** y eliminando la duplicidad de información entre departamentos.
+**Solución:** Implementar un **Bus de Interoperabilidad** sobre **SUSE Rancher**. Esto conecta las aplicaciones para lograr el "Dato Único", automatizando el intercambio de información y eliminando burocracia.
 
 ## 4. Oportunidades y viabilidad del proyecto
 
@@ -64,4 +63,6 @@ Basándome en la documentación oficial del Plan Estratégico Provincial, he enc
 - Autor1, Título del libro o artículo, Editorial/Año.
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
+
+
 
