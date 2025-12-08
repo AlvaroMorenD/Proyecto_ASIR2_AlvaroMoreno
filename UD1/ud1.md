@@ -114,7 +114,7 @@ SOC: Página 57.
   
 - [Diagramas e imágenes](./img/)
 
-  ## Bibliografía / Webgrafía
+## Bibliografía / Webgrafía
   
 ###  Documentación de Referencia
 - **Diputación de Sevilla / INPRO** (2022-2023). *Plan Estratégico Provincial de Innovación y Territorio Inteligente de la Diputación de Sevilla*. (Documento fuente principal del proyecto).
