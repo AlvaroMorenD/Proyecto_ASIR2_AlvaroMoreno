@@ -40,17 +40,17 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 
 ## 3. Identificación de necesidades tecnológicas
 
-Pese al acceso web seguro y al 2FA que oferecen para acceder de manera telemática a sus eqipos de trabajo, depender de PCs físicos con sistemas operativos obsoletos genera riesgos de fuga de información y dificultades de mantenimiento.
+- Pese al acceso web seguro y al 2FA que oferecen para acceder de manera telemática a sus eqipos de trabajo, depender de PCs físicos con sistemas operativos obsoletos genera riesgos de fuga de información y dificultades de mantenimiento.
 
 **Mi solución:** Implantar el **"Entorno Virtual Corporativo"** **(VDI)**. Usaremos la autenticación actual para servir escritorios virtuales centralizados en el CPD, garantizando que la información nunca salga del CPD y eliminando la gestión de parches en los equipos locales.
 
-La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil y la mayoría no cumplen el Esquema Nacional de Seguridad (ENS) por falta de recursos.
+- La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil y la mayoría no cumplen el Esquema Nacional de Seguridad (ENS) por falta de recursos.
 
 **Mi Solución:** Desplegar un SOC Provincial (Centro de Operaciones de Seguridad) para monitorizar y proteger centralizadamente a todos los municipios, suprimiendo la falta de personal técnico.
 
-En cuanto a los **Silos de Información.** Existe la duplicidad y aislamiento de datos por la falta de comunicación entre departamentos.
+- En cuanto a los **Silos de Información.** Existe la duplicidad y aislamiento de datos por la falta de comunicación entre departamentos.
 
-**Solución:** Implementar un **Bus de Interoperabilidad** sobre **SUSE Rancher**. Esto conecta las aplicaciones para lograr el "Dato Único", automatizando el intercambio de información y eliminando burocracia.
+**Mi Solución:** Implementar un **Bus de Interoperabilidad** sobre **SUSE Rancher**. Esto conecta las aplicaciones para lograr el "Dato Único", automatizando el intercambio de información y eliminando burocracia.
 
 ## 4. Oportunidades y viabilidad del proyecto
 
