@@ -46,7 +46,7 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 
 **Mi solución:** Implantar el **"Entorno Virtual Corporativo"** **(VDI)**. Usaremos la autenticación actual para servir escritorios virtuales centralizados en el CPD, garantizando que la información nunca salga del CPD y eliminando la gestión de parches en los equipos locales, contribuyendo al ahorro de energía, y cumplimientos normativos sostenibles aconsejado dentro del marco de la UE.
 
-- La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil, con sistemas operativos obsoletos y con despliegue de un antivirus, pero sin EDR.
+- La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil, con sistemas operativos obsoletos y con despliegue de un antivirus <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kaspersky_logo.svg/1024px-Kaspersky_logo.svg.png" width="20" height="20" alt="Kaspersky Logo" />, pero sin EDR.
   
 **Mi solución:** Desplegar un sistema **EDR (Detección de Respuesta de Endpoints)** que refuerce la ciberseguridad de los puestos de trabajo, incorporando análisis de comportamiento, además del propio escaneo de firmas de un simple antivirus. Un sistema **EDR** se enecarga de analizar distintos patrones que detectan cuando un proceso es malintencionado o presenta un comportamiento anómalo.
 
