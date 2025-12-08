@@ -68,7 +68,7 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 
 - Instalamos en el CPD el hardware necesario y el software de virtualización **(KVM)** donde contendrán los escritorios virtuales
 
-- Configuramos **Zabbix** para monitorear las **KVMs**.
+- Configuramos **Zabbix** para monitorear las **VMs**.
 
 **2. DESPLIEGUE DE SERVICIOS**
 
