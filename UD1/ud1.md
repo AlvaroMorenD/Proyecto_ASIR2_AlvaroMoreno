@@ -60,18 +60,6 @@ En cuanto a la viabilidad técnica y económica, el proyecto es totalmente soste
 
 Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y con la **normativa de Protección de Datos (RGPD)** porque al centralizar todo en el **CPD** y usar **VDI (Virtualizado Centralizado)**, **SOC (Centro de Operaciones de Seguridad)** y **EDR (Detección de Respuesta de Endpoints)**, los datos sensibles no salen de un entorno controlado y siempre están protegidos. Además, la monitorización continua y el control de accesos ayudan a evitar fugas de información y permiten detectar incidentes a tiempo, algo que también pide la normativa europea como **NIS2 (normativa europea de ciberseguridad)**. En resumen, estas medidas hacen que la **Diputación** e **INPRO** trabajen de forma más segura y siguiendo las reglas que exige la ley.
 
-
-
-## Enlaces a recursos de la unidad 
-
-- [Documentos de la unidad](./documentos/)
-- [Diagramas e imágenes](./img/)
-
-  ## Bibliografía / Webgrafía 
-- Autor1, Título del libro o artículo, Editorial/Año.
-- Sitio web oficial: [Enlace](https://www.ejemplo.com)
-- Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
-
 ## 6. Guion inicial del proyecto
 
 **1. PREPARACIÓN Y MONTAJE DEL CPD**
@@ -97,6 +85,18 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 - Verficamos si se cumplen parte de los requisitos del **Esquema Nacional de Seguridad (ENS)**.
 
 - Formación a usuarios de cómo usar su nuevo escritorio y cómo actuar ante posibles incidencias. Entregando también el **Plan de Contingencia**
+
+## Enlaces a recursos de la unidad 
+
+- [Documentos de la unidad](./documentos/)
+- [Diagramas e imágenes](./img/)
+
+  ## Bibliografía / Webgrafía 
+- Autor1, Título del libro o artículo, Editorial/Año.
+- Sitio web oficial: [Enlace](https://www.ejemplo.com)
+- Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
+
+
 
 ## recursos
 
