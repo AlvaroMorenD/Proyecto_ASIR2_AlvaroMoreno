@@ -46,7 +46,7 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 
 - La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil y la mayoría no cumplen el Esquema Nacional de Seguridad (ENS) por falta de recursos.
 
-**Mi Solución:** Desplegar un SOC Provincial (Centro de Operaciones de Seguridad) para monitorizar y proteger centralizadamente a todos los municipios, suprimiendo la falta de personal técnico.
+**Mi Solución:** Desplegar un **SOC Provincial** (Centro de Operaciones de Seguridad) para monitorizar y proteger centralizadamente a todos los municipios, suprimiendo la falta de personal técnico.
 
 - En cuanto a los **Silos de Información.** Existe la duplicidad y aislamiento de datos por la falta de comunicación entre departamentos.
 
@@ -63,6 +63,39 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 - Autor1, Título del libro o artículo, Editorial/Año.
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
+
+
+## recursos
+1. Sobre el Puesto de Trabajo (VDI)
+El Problema (Obsolescencia y Riesgo):
+
+Página 26: El diagnóstico señala la necesidad de "la adaptación del paradigma actual del puesto de trabajo" y "asegurar un acceso y un soporte seguro".
+
+Página 39 (DAFO): Identifica como debilidad la "Desprotección y falta de mecanismos de seguridad ante retos imprevistos".
+
+La Solución (Entorno Virtual):
+
+Página 27: Describe explícitamente el proyecto "Entorno Virtual Corporativo y Seguridad", cuyo objetivo es "la configuración, despliegue y puesta en marcha del acceso remoto seguro al puesto de trabajo".
+
+2. Sobre la Seguridad en Municipios (SOC)
+El Problema (Ayuntamientos < 20.000 hab.):
+
+Página 25: Destaca la "necesidad detectada está relacionada con la adecuación al Esquema Nacional de Seguridad... de los municipios menores de 20.000 habitantes".
+
+La Solución (SOC Provincial):
+
+Página 57: Dentro de las actuaciones de la Línea 1, incluye literalmente la "Implantación de Centro de Operaciones de Seguridad (SOC)".
+
+3. Sobre los Silos de Información (Bus de Interoperabilidad)
+El Problema (Silos):
+
+Página 39 (DAFO): Identifica en el cuadro de Debilidades la "Existencia de silos en la gestión del dato y la información".
+
+La Solución (Bus):
+
+Página 56: En los objetivos operativos de la Línea 1, establece: "Definir e implantar un modelo de interoperabilidad provincial" y lista como actuación la "Implantación de Bus de interoperabilidad en la Diputación".
+
+(Nota: La tecnología concreta "SUSE Rancher" es la aportación técnica externa que hemos añadido para modernizar este Bus, pero la necesidad del Bus es oficial del documento).
 
 
 
