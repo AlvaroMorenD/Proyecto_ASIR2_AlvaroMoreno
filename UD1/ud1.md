@@ -131,7 +131,7 @@ SOC: Página 57.
 - **INPRO (Sociedad Provincial de Informática de Sevilla)**. *Portal oficial y Catálogo de Servicios*.
   - [Web Oficial INPRO](https://inpro.dipusevilla.es/)
 - **Linux KVM (Kernel-based Virtual Machine)**. *Documentación sobre virtualización Open Source (Base del proyecto VDI)*.
-  - [Linux KVM.org](https://www.linux-kvm.org/page/Main_Page)
+  - [Linux KVM](https://www.linux-kvm.org/page/Main_Page)
 - **Zabbix**. *Manual de monitorización de infraestructura y máquinas virtuales*.
   - [Documentación Zabbix](https://www.zabbix.com/documentation/current/es)
 
