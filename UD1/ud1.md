@@ -89,6 +89,16 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 ## Enlaces a recursos de la unidad 
 
 - [Documentos de la unidad](./documentos/)
+
+-[Documento de la planificacion](./documentos/1-Plan-Estrategico-Innovac-y-Territ-Intelig.pdf/) 
+VDI: Página 27.
+
+Municipios <20k (ENS): Página 25.
+
+Falta Personal (DAFO): Página 39.
+
+SOC: Página 57.
+  
 - [Diagramas e imágenes](./img/)
 
   ## Bibliografía / Webgrafía 
