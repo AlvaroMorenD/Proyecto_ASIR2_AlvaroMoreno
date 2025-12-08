@@ -58,9 +58,7 @@ En cuanto a la viabilidad técnica y económica, el proyecto es totalmente soste
 
 ## 5. Obligaciones legales y normativas
 
-Este proyecto puede llegar a ser necesario para cumplir con el **Esquema Nacional de Seguridad** **(ENS)** y la normativa de **Protección de Datos**. Al centralizar los escritorios **(VDI)** y la seguridad **(SOC y EDR)**, evitamos que los datos sensibles de los ciudadanos acaben expuestos a terceros.
-
-
+Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y con la **normativa de Protección de Datos (RGPD)** porque al centralizar todo en el **CPD** y usar **VDI**, **SOC** y **EDR**, los datos sensibles no salen de un entorno controlado y siempre están protegidos. Además, la monitorización continua y el control de accesos ayudan a evitar fugas de información y permiten detectar incidentes a tiempo, algo que también pide la normativa europea como **NIS2**. En resumen, estas medidas hacen que la **Diputación** e **INPRO** trabajen de forma más segura y siguiendo las reglas que exige la ley.
 
 ## Enlaces a recursos de la unidad 
 
