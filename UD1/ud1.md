@@ -40,17 +40,21 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 
 ## 3. Identificación de necesidades tecnológicas
 
-- Pese al acceso web seguro y al 2FA que oferecen para acceder de manera telemática a sus eqipos de trabajo, depender de PCs físicos con sistemas operativos obsoletos genera riesgos de fuga de información y dificultades de mantenimiento.
+- Aunque tienen despleglado acceso seguro con Doble factor de autenticación (2FA),  para elacceso de manera telemática a sus eqipos de trabajo, depender de PCs físicos con sistemas operativos obsoletos genera riesgos de fuga de información y dificultades de mantenimiento.
 
-**Mi solución:** Implantar el **"Entorno Virtual Corporativo"** **(VDI)**. Usaremos la autenticación actual para servir escritorios virtuales centralizados en el CPD, garantizando que la información nunca salga del CPD y eliminando la gestión de parches en los equipos locales.
+**Mi solución:** Implantar el **"Entorno Virtual Corporativo"** **(VDI)**. Usaremos la autenticación actual para servir escritorios virtuales centralizados en el CPD, garantizando que la información nunca salga del CPD y eliminando la gestión de parches en los equipos locales, contribuyendo al ahorro de energía, y cumplimientos normativos sostenibles aconsejado dentro del marco de la UE.
 
-- La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil y la mayoría no cumplen el Esquema Nacional de Seguridad (ENS) por falta de recursos.
+- La Seguridad en Municipios menores de 20.000 habitantes son el eslabón más débil, con sistemas operativos obsoletos y con despliegue de un antivirus, pero sin EDR.
+  
+**Mi solución:** Desplegar un sistema EDR (Detección de Respuesta de Endpoints) que refuerce la ciberseguridad de los puestos de trabajo, incorporando análisis de comportamiento, además del propio escaneo de firmas de un simple antivirus.
+
+- Los equipos técnicos de la Diputación, no cuentan con un servicio 24x7, dada la falta de personal, esto puede ser aprovechado por los ciberdelincuentes, y en caso de incidente, puede ser demasiado tarde.
 
 **Mi Solución:** Desplegar un **SOC Provincial** (Centro de Operaciones de Seguridad) para monitorizar y proteger centralizadamente a todos los municipios, suprimiendo la falta de personal técnico.
 
-- En cuanto a los **Silos de Información.** Existe la duplicidad y aislamiento de datos por la falta de comunicación entre departamentos.
+-La mayoría de los Ayuntamenos o EELL, no cumplen el Esquema Nacional de Seguridad (ENS) por falta de recursos
 
-**Mi Solución:** Implementar un **Bus de Interoperabilidad** sobre **SUSE Rancher**. Esto conecta las aplicaciones para lograr el "Dato Único", automatizando el intercambio de información y eliminando burocracia.
+**Mi solución:** 
 
 ## 4. Oportunidades y viabilidad del proyecto
 
