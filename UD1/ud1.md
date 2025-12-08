@@ -17,7 +17,7 @@ En primer lugar, voy a poner en contexto en cuanto al sector TIC (Tecnologías d
 
 Hay una media de 31.667 personas trabajando en Sevilla TechPark. De todos ellos, casi 12.000 son informáticos o de telecomunicaciones. Las empresas de ingeniería dentro del parque han disparado su actividad un 73% este año.
 
-Casi toda la provincia, el 99%, de los Ayuntamientos y Entidades Locales, tiene acceso a internet básico, pero la clave está en la Fibra Óptica (FTTH) de alta velocidad. En la capital y el área metropolitana (como en el parque Sevilla TechPark), la velocidad es altísima porque las empresas lo necesitan para mover datos pesados, así cómo la centralización colaborativa de los mismos.
+Casi toda la provincia, el 99%, de los Ayuntamientos y Entidades Locales, tiene acceso a internet básico, pero la clave está en la Fibra Óptica de alta velocidad. En la capital y el área metropolitana (como en el parque Sevilla TechPark), la velocidad es altísima porque las empresas lo necesitan para mover datos pesados, así cómo la centralización colaborativa de los mismos.
 
 Uno de los problemas frecuentes en muchas empresas es que mantienen infraestructuras de red muy antiguas, con cableado de cobre obsoleto que provoca cuellos de botella. Lo he visto por experiencia cuando estuve de becario en la Diputación de Sevilla. Como administradores de sistemas, nuestra labor es sustituir esas redes antiguas por otras modernas para que la velocidad real llegue al puesto de trabajo.
 
