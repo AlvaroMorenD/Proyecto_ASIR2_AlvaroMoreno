@@ -70,7 +70,7 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 
 ## 6. Guion inicial del proyecto
 
-**1. PREPARACIÓN Y MONTAJE DEL CPD**
+**1. PREPARACIÓN Y MONTAJE EN EL CPD**
 
 - En primer lugar, hacemos un inventario rápido para saber cuántos ordenadores obsoletos hay en los pueblos y comprobar si la **red Tarsis** tiene velocidad suficiente
 
@@ -82,7 +82,7 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 
 - Activamos el **SOC Provincial** para empezar a vigilar la red e instalamos de forma remota los agentes **EDR** en los ordenadores de los ayuntamientos pequeños para para reforzar su ciberseguridad.
 
-- Creamos las **imágenes maestras** (Windows con sus programas por defecto y con las aplicaciones coorporativas necesarias para el trabajador)
+- Creamos las **imágenes maestras** (Windows 10 **ESU** con sus programas por defecto y con las aplicaciones coorporativas necesarias para el trabajador)
 
 - Creamos un sistema de autenticación por doble factor con **google authenticator** para que cada trabajador tenga su clave **TOTP** o **SMS**
 
