@@ -86,6 +86,22 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 
 - Formación a usuarios de cómo usar su nuevo escritorio y cómo actuar ante posibles incidencias. Entregando también el **Plan de Contingencia**
 
+  graph TD
+    subgraph "Fase 1: Preparación"
+    A[Inventario y Red Tarsis] --> B[Instalación KVM en CPD]
+    B --> C[Configurar Zabbix]
+    end
+    subgraph "Fase 2: Despliegue"
+    C --> D[Activar SOC y EDR]
+    D --> E[Crear Golden Images]
+    E --> F[Configurar 2FA]
+    end
+    subgraph "Fase 3: Validación"
+    F --> G[Simulacro Ransomware]
+    G --> H[Auditoría ENS]
+    H --> I[Entrega Plan Contingencia]
+    end
+
 ## Enlaces a recursos de la unidad 
 
 - [Documentos de la unidad](./documentos/)
@@ -106,39 +122,3 @@ SOC: Página 57.
 - Autor1, Título del libro o artículo, Editorial/Año.
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
-
-
-## recursos
-
-1. Sobre el Puesto de Trabajo (VDI)
-El Problema (Obsolescencia y Riesgo):
-
-Página 26: El diagnóstico señala la necesidad de "la adaptación del paradigma actual del puesto de trabajo" y "asegurar un acceso y un soporte seguro".
-
-Página 39 (Análisis DAFO): Identifica como debilidad la "Desprotección y falta de mecanismos de seguridad ante retos imprevistos".
-
-La Solución (Entorno Virtual):
-
-Página 27: Describe explícitamente el proyecto "Entorno Virtual Corporativo y Seguridad", cuyo objetivo es "la configuración, despliegue y puesta en marcha del acceso remoto seguro al puesto de trabajo".
-
-2. Sobre la Seguridad en Municipios (SOC)
-El Problema (Ayuntamientos < 20.000 hab.):
-
-Página 25: Destaca la "necesidad detectada está relacionada con la adecuación al Esquema Nacional de Seguridad... de los municipios menores de 20.000 habitantes".
-
-La Solución (SOC Provincial):
-
-Página 57: Dentro de las actuaciones de la Línea 1, incluye literalmente la "Implantación de Centro de Operaciones de Seguridad (SOC)".
-
-3. Sobre los Silos de Información (Bus de Interoperabilidad)
-El Problema (Silos):
-
-Página 39 (DAFO): Identifica en el cuadro de Debilidades la "Existencia de silos en la gestión del dato y la información".
-
-La Solución (Bus):
-
-Página 56: En los objetivos operativos de la Línea 1, establece: "Definir e implantar un modelo de interoperabilidad provincial" y lista como actuación la "Implantación de Bus de interoperabilidad en la Diputación".
-
-
-
-
