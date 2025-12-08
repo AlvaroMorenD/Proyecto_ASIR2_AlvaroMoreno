@@ -88,7 +88,7 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 
 **3. VALIDACIÓN Y ENTREGA**
 
-- Hacemos un simulacro de ataque (tipo ransomware) para verificar la respuesta del SOC y del EDR, y además realizamos una prueba de carga y alta disponibilidad con muchos usuarios conectados al VDI (monitoreamos con **Zabbix**)
+- Hacemos un simulacro de ataque (tipo ransomware) para verificar la respuesta del **SOC** y del **EDR**, y además realizamos una prueba de carga y alta disponibilidad con muchos usuarios conectados al VDI (monitoreamos con **Zabbix**)
 
 - Verficamos si se cumplen parte de los requisitos del **Esquema Nacional de Seguridad (ENS)**.
 
