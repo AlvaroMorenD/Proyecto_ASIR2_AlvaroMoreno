@@ -43,16 +43,10 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 
 Basándome en la documentación oficial del Plan Estratégico Provincial, he encontrado una serie de vulnerabilidades que pueden comprometer la seguridad y la continuidad de los servicios públicos;
 
-- Dispone de sistemas de **copias de seguridad primarios**, se ha identificado la inexistencia de un **Centro de Proceso de Datos de backups secundario** que permita una conmutación efectiva en caso de desastre y que se pueda utilizar como espejo de datos.
-
-**Solución:** Con **Proxmox Backup Server** podemos implementar un sistema de backups que se sincronize y actúe como espejo de datos con el primero. Y además la podemos implementar en la nube con **Amazon web service**, para que en caso que destrucción del CPD de basckups físico, el secundario no pueda ser destruido. **OpenSource y fácil de integrar**
-
 - Existe una urgencia en la **"adecuación al Esquema Nacional de Seguridad (ENS)"**, especialmente en los ayuntamientos de menos de 20.000 habitantes. Los hackers saben que los pueblos pequeños son fáciles de atacar (tienen seguridad débil) y algunos no tienen dinero ni informáticos para mejorar la seguridad.
-
 **Solución:** Desplegar una arquitectura de **firewalls** y segmentación de redes **VLANs** para aislar tráficos críticos, cumpliendo con las medidas de nivel medio/alto del **ENS** 
 
 - El análisis DAFO de la documentación identifica la existencia de "silos en la gestión del dato", lo que provoca duplicidad de información y falta de comunicación entre los sistemas municipales.
-
 **Solución:** Implementar un Bus de Interoperabilidad Provincial orquestado mediante **SUSE Rancher (Kubernetes)**. Esta plataforma moderna permitirá conectar las bases de datos aisladas mediante microservicios, garantizando el principio de "Dato Único" y eliminando la duplicidad de información entre departamentos, tal y como exige la estrategia de transformación digital del organismo.
 
 <p align="center">
