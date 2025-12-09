@@ -1,5 +1,13 @@
 [Volver al índice general](../README.md)
 
+![Kaspersky](https://img.shields.io/badge/Antivirus-Kaspersky-006D55?style=flat-square&logo=kaspersky&logoColor=white)
+![ENS](https://img.shields.io/badge/Cumplimiento-ENS_Nivel_Medio-005EB8?style=flat-square&logo=shield&logoColor=white&labelColor=1f2328)
+[SOC](https://img.shields.io/badge/Seguridad-SOC_Provincial-red?style=flat-square&logo=shield&logoColor=white)
+![EDR](https://img.shields.io/badge/Endpoint-EDR_Protection-orange?style=flat-square&logo=auth0&logoColor=white)
+![KVM](https://img.shields.io/badge/Virtualización-KVM-black?style=flat-square&logo=linux&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Monitorización-Zabbix-d00000?style=flat-square&logo=zabbix&logoColor=white)
+![Debian](https://img.shields.io/badge/OS-Debian_Server-A81D33?style=flat-square&logo=debian&logoColor=white)
+
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
 ## Índice de apartados
@@ -22,6 +30,8 @@ En cuanto a las infraestructuras actuales, la mayoría de empresas están aposta
   <img src="img/hola.webp" alt="" width="600">
 </p>
 
+[⬆️ Volver al índice](#índice-de-apartados)
+
 ## 2. Selección de la empresa o contexto de trabajo
 
 He seleccionado como entorno de trabajo la **Sociedad Provincial de Informática de Sevilla S.A.U. (INPRO)**. Se trata de una sociedad instrumental dependiente de la Diputación de Sevilla, que actúa como el principal proveedor tecnológico para las Entidades Locales de la provincia.
@@ -34,6 +44,8 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
 <p align="center">
   <img src="img/tarsis.png_1186095565.png" alt="" width="600">
 </p>
+
+[⬆️ Volver al índice](#índice-de-apartados)
 
 ## 3. Identificación de necesidades tecnológicas
 
@@ -53,15 +65,21 @@ En caso necesario, tienen un departamento de **atención a usuarios (CAU)** y **
   <img src="img/5496.jpg" alt="" width="600">
 </p>
 
+[⬆️ Volver al índice](#índice-de-apartados)
+
 ## 4. Oportunidades y viabilidad del proyecto
 
 Teniendo en cuenta que tratan con datos sensibles de la provincia y ciudadanos, todas las medidas que he citado son imprescindibles para fortificar el acceso y evitar que la información se vea comprometida. Aunque el coste inicial pueda parecer elevado, es muy inferior al impacto de un incidente de seguridad real.
 
 En cuanto a la viabilidad técnica y económica, el proyecto es totalmente sostenible gracias al uso de alternativas de **Software Libre**. Para reducir costes de licencias, propongo utilizar tecnologías como la virtualización basada en **KVM** para el despliegue del **VDI**. Esto demuestra que es posible elevar la seguridad y modernizar el puesto de trabajo manteniendo la eficiencia del gasto público.
 
+[⬆️ Volver al índice](#índice-de-apartados)
+
 ## 5. Obligaciones legales y normativas
 
 Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y con la **normativa de Protección de Datos (RGPD)** porque al centralizar todo en el **CPD** y usar **VDI (Virtualizado Centralizado)**, **SOC (Centro de Operaciones de Seguridad)** y **EDR (Detección de Respuesta de Endpoints)**, los datos sensibles no salen de un entorno controlado y siempre están protegidos. Además, la monitorización continua y el control de accesos ayudan a evitar fugas de información y permiten detectar incidentes a tiempo, algo que también pide la normativa europea como **NIS2 (normativa europea de ciberseguridad)**. En resumen, estas medidas hacen que la **Diputación** e **INPRO** trabajen de forma más segura y siguiendo las reglas que exige la ley.
+
+[⬆️ Volver al índice](#índice-de-apartados)
 
 ## 6. Guion inicial del proyecto
 
@@ -92,6 +110,8 @@ Este proyecto permite cumplir con el **Esquema Nacional de Seguridad (ENS)** y c
 <p align="center">
   <img src="img/R.png" alt="" width="600">
 </p>
+
+[⬆️ Volver al índice](#índice-de-apartados)
 
 ## Enlaces a recursos de la unidad 
 
