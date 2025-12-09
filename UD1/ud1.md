@@ -1,7 +1,6 @@
 [Volver al índice general](../README.md)
 
 ![Kaspersky](https://img.shields.io/badge/Antivirus-Kaspersky-006D55?style=flat-square&logo=kaspersky&logoColor=white)
-![ENS](https://img.shields.io/badge/Cumplimiento-ENS_Nivel_Medio-005EB8?style=flat-square&logo=shield&logoColor=white&labelColor=1f2328)
 [SOC](https://img.shields.io/badge/Seguridad-SOC_Provincial-red?style=flat-square&logo=shield&logoColor=white)
 ![EDR](https://img.shields.io/badge/Endpoint-EDR_Protection-orange?style=flat-square&logo=auth0&logoColor=white)
 ![KVM](https://img.shields.io/badge/Virtualización-KVM-black?style=flat-square&logo=linux&logoColor=white)
